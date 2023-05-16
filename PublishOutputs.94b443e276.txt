@@ -1,0 +1,5 @@
+C:\NightRider Projects & GPT collabo\HelloConsoleWin11\bin\Debug\net7.0\publish\HelloConsoleWin11.exe
+C:\NightRider Projects & GPT collabo\HelloConsoleWin11\bin\Debug\net7.0\publish\HelloConsoleWin11.dll
+C:\NightRider Projects & GPT collabo\HelloConsoleWin11\bin\Debug\net7.0\publish\HelloConsoleWin11.deps.json
+C:\NightRider Projects & GPT collabo\HelloConsoleWin11\bin\Debug\net7.0\publish\HelloConsoleWin11.runtimeconfig.json
+C:\NightRider Projects & GPT collabo\HelloConsoleWin11\bin\Debug\net7.0\publish\HelloConsoleWin11.pdb
